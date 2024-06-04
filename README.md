@@ -40,7 +40,7 @@ our paper "Omni Spatial-Angular Correlations Exploration for Light Field Image S
 
 #### Efficiency:
 <div align=center> 
-   <img src="./figs/efficiency.png" width="200"/>
+   <img src="./figs/efficiency.png" width="500"/>
 </div>
 
 #### Angular consistency:
@@ -49,12 +49,12 @@ our paper "Omni Spatial-Angular Correlations Exploration for Light Field Image S
 #### LFMamba for LF angular SR
    **Quantitative results:**
 <div align=center> 
-   <img src="./figs/ASR_quantitative.png" width="200"/>
+   <img src="./figs/ASR_quantitative.png" width="500"/>
 </div>
 
    **Visual comparisons:**
 <div align=center> 
-   <img src="./figs/ASR_visual.png" width="400"/>
+   <img src="./figs/ASR_visual.png" width="600"/>
 </div>
 
 
