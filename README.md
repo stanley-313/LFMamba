@@ -3,7 +3,7 @@
 ![](/figs/network.png)
 
 **This is the Pytorch implementation of the LF image spatial SR method in 
-our paper "Omni Spatial-Angular Correlations Exploration for Light Field Image Super-Resolution".**
+our paper "LFMamab: Light Field Image Super-Resolution with State Space Model".**
 
 ## Preparation:
 ***
